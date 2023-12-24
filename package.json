@@ -1,0 +1,23 @@
+{
+  "name": "sapientia",
+  "version": "1.0.0",
+  "description": "A Blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AtharvaB2002/Sapientia.git"
+  },
+  "author": "Atharva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AtharvaB2002/Sapientia/issues"
+  },
+  "homepage": "https://github.com/AtharvaB2002/Sapientia#readme",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2"
+  }
+}
