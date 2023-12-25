@@ -82,11 +82,9 @@ body {
   }
 
   header h3 { 
-    font-size: 1.5em;
+    font-size: 2rem;
     padding-top: 0.5rem;
     padding-bottom: 0.5rem;
-    margin: 0;
-    padding: 0;
   }
 
 
