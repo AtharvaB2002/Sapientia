@@ -61,14 +61,11 @@ body {
     background-color:#E7E6E1 ;
     color: #F4F4F4;
     text-align: center;
-    align-items: center;
     padding: 30px 0;
     height: 685px;
-    background-position: center;
     border: #454545;
     border-style: solid;
     border-width: 8px 0px 7px 0px;
-    justify-content: center;
   }
   
   header h1 {
